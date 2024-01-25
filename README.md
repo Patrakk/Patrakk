@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Patrakk / Quentin
-- 🌱 I’m currently learning Front-End framework like Angular and Vue.JS
 - 📫 You can reach me on quentinpatras.pro@outlook.com ! :)
 
 <!---
